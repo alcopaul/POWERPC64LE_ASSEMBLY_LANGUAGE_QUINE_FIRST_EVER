@@ -1,5 +1,7 @@
 #
-# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GvILLErMo [GIMO], Zelotes ni Isa [ZnI], Brigada Ocho [b8]
+# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GvILLErMo [GIMO],
+# Zelotes ni Isa [ZnI], Brigada Ocho [b8]
+#
 # 5/2/2026 NYC
 #
 # powerpc64le-linux-gnu-as -W -a64 -o sofia.o sofia.asm
@@ -35,7 +37,9 @@ bl exit
 nop
 .section .data
 msg:.asciz "#
-# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GvILLErMo [GIMO], Ze>
+# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GvILLErMo [GIMO],
+# Zelotes ni Isa [ZnI], Brigada Ocho [b8]
+#
 # 5/2/2026 NYC
 #
 # powerpc64le-linux-gnu-as -W -a64 -o sofia.o sofia.asm
@@ -71,4 +75,3 @@ bl exit
 nop
 .section .data
 msg:.asciz "
-
