@@ -1,5 +1,5 @@
 #
-# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GvILLErMo [GIMO],
+# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GviLLErMo [GIMO],
 # Zelotes ni Isa [ZnI], Brigada Ocho [b8]
 #
 # 5/2/2026 NYC
@@ -37,7 +37,7 @@ bl exit
 nop
 .section .data
 msg:.asciz "#
-# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GvILLErMo [GIMO],
+# Sofia, a ppc64le quine by alCoPaUL, HAsAsIN [NaCl], beth GviLLErMo [GIMO],
 # Zelotes ni Isa [ZnI], Brigada Ocho [b8]
 #
 # 5/2/2026 NYC
